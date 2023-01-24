@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PROYECTO FINAL "NOTAS-UPIICSA"</string>
+    <string name="title">NOTAS</string>
+    <string name="clave">Clave</string>
+    <string name="materia">Materia</string>
+    <string name="titulo">Título de nota</string>
+    <string-array name="materias_array">
+        <item>Calculo</item>
+        <item>Estadística</item>
+        <item>Programación De Dispositivos Móviles</item>
+        <item>Programación Web</item>
+        <item>Ingles</item>
+        <item>Simulación De Sistemas</item>
+        <item>Bases De Datos</item>
+        <item>Diseño De Ambientes Ubicuos</item>
+        <item>Programación Orientada A Objetos</item>
+    </string-array>
+    <string name="descripcion">Descripción</string>
+    <string name="fecha">Fecha</string>
+    <string name="hora">Hora</string>
+    <string name="guardar">Guardar</string>
+    <string name="consulta">Consulta</string>
+    <string name="modifica">Modifica</string>
+    <string name="elimina">Elimina</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="email">Correo</string>
+    <string name="pass">Contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="acceder">Acceder</string>
+    <string name="proveedor">Proveedor</string>
+    <string name="regresar">Regresar</string>
+    <string name="cerrar">Cerrar Sesión</string>
+</resources>
